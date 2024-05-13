@@ -35,14 +35,15 @@ p {
         }
         table {
             width: 80%;
-            margin: 20px auto; /* Center-align the table */
+            margin: 20px auto; 
             border-collapse: collapse;
+            
         }
 
         table, th, td {
             border: 1px solid black;
             padding: 10px;
-            text-align: left;
+            text-align: center, left;
         }
 
         th {
@@ -51,7 +52,7 @@ p {
         }
 
         tr:nth-child(even) {
-            background-color: #F7DCB9; /* Alternate row color */
+            background-color: #F7DCB9; 
         }
 form {
     display: flex;
@@ -138,6 +139,7 @@ $conn->close();
     Grade: <input type="text" name="grade"><br>
     <input type="submit">
 </form>
+    <p><a href="edit.php">Edit Another Record</a></p>   
     <p><a href="home.php">Back to Home</a></p>
     
 </body>

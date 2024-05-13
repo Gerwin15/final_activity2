@@ -1,4 +1,5 @@
 <html>
+<title>All Records</title>
 <style>
     body {
         background-color: #F8C794;

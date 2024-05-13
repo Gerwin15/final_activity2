@@ -1,5 +1,5 @@
 <html>
-<title>AIMS</title>
+<title>Delete Record</title>
 <style>
     body {
         background-color: #F8C794;

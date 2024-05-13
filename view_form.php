@@ -1,4 +1,5 @@
 <html>
+<title>Student Info</title>
 <style>
     body {
         background-color: #F8C794;

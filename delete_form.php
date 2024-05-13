@@ -1,4 +1,5 @@
 <html>
+<title>Delete Success!</title>
 <style>
     body {
         background-color: #F8C794;

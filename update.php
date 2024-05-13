@@ -1,4 +1,5 @@
 <html>
+<title>Update Success!</title>
 <style>
     body {
         background-color: #F8C794;
